@@ -34,7 +34,7 @@ Tools and Library Required
 •	Seaborn (visualization)
 •	Git (Version Control system)
 
-### Necessary Guidelines to star t###
+### Necessary Guidelines to start ###
 
 •	Make sure the two necessary tools installed properly in your machine the Python and Git, and make sure jupyter notebook run on the server.
     Source: Git [https://git-scm.com/], Python [https://www.python.org/]
@@ -54,10 +54,10 @@ Tools and Library Required
 
 •	Finally RUN the cells to perform data analysis. In case of further details, you may refer to guidelines in markdown    file at jupyter notebook.
 
-### License t###
+### Licenset ###
 The project is under license from MIT. For more details about license, explore the [LICENSE](https://gitup.uni-potsdam.de/uddin2/project_rse_824909/-/blob/main/LICENSE?ref_type=heads)
 
-### Citation t###
+### Citationt ###
 
 In case, if you are a user of this resources and software, please cite using [Citation](https://gitup.uni-potsdam.de/uddin2/project_rse_824909/-/blob/main/CITATION.cff?ref_type=heads), citation.cff file
 

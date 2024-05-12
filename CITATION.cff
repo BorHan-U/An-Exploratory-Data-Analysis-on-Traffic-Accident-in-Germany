@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Project_RSE_824909
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Md Borhan
+    family-names: Uddin
+    email: md.borhan.uddin@uni-potsdam.de
+repository-code: >-
+  https://gitup.uni-potsdam.de/uddin2/project_rse_824909
+license: MIT
+version: 1.0.0
+date-released: '2024-05-12'

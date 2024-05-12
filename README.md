@@ -21,7 +21,7 @@ In this project, with necessary data processing and data exploration, I will be 
 5. How have the number of deaths, serious injuries, and slightly injured cases varied in recent (last 5) years due to driving accidents?
 
 
-### Usage ######
+### Usage ######s
 
 To do EDA (Exploratory data analysis), we have used python as programming language. the data stored in /data directory in CSV file, the main code store /src directory. and a detailed project explanation file stored in /doc directory.
 
@@ -55,11 +55,11 @@ Tools and Library Required
 •	Finally RUN the cells to perform data analysis. In case of further details, you may refer to guidelines in markdown    file at jupyter notebook.
 
 ### License t###
-The project is under license from MIT. For more details about license, explore the [LICENSE] File.
+The project is under license from MIT. For more details about license, explore the [LICENSE](https://gitup.uni-potsdam.de/uddin2/project_rse_824909/-/blob/main/LICENSE?ref_type=heads)
 
 ### Citation t###
 
-In case, if you are a user of this resources and software, please cite using [Citation], citation.cff file
+In case, if you are a user of this resources and software, please cite using [Citation](https://gitup.uni-potsdam.de/uddin2/project_rse_824909/-/blob/main/CITATION.cff?ref_type=heads), citation.cff file
 
 ### Contact Information ###
 Feel free to reach out to me, if necessary, through my Git.Up [Md Borhan Uddin] (https://gitup.uni-potsdam.de/uddin2).

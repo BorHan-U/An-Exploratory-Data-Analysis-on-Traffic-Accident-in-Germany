@@ -21,7 +21,7 @@ In this project, with necessary data processing and data exploration, I will be 
 5. How have the number of deaths, serious injuries, and slightly injured cases varied in recent (last 5) years due to driving accidents?
 
 
-### Usage ######s
+### Usage ######
 
 To do EDA (Exploratory data analysis), we have used python as programming language. the data stored in /data directory in CSV file, the main code store /src directory. and a detailed project explanation file stored in /doc directory.
 

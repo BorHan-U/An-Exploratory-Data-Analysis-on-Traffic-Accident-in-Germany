@@ -1,1 +1,11 @@
-Description of my dataset
+First of all, I belong to a country where the transport and traffic system are badly disastrous. The yearly death rate and injuries are beyond imagination. Since the transportation system cannot change overnight, I always feel for a good research about the situation and I believe a meaningful research outcome will be more conducive to increasing public awareness than thinking about the improvement of the traffic system overnight. From this real situation of my experience and gaining knowledge about traffic data to further implement, I choose the dataset “Accidents with personal injury, casualties: Germany, years, type/type of accident, location, severity of injury (46241-0005) from “Road Traffic Accident Statistics”. I find this dataset resourceful in terms of the variety of factors that cover vital elements related to road accidents, including the type of accident, location, and severity of injuries. Analysing these factors can help us understand the underlying causes of accidents and identify patterns.
+
+Moreover, The dataset allows for comparative analysis between different types of accidents and locations, providing valuable insights into the factors contributing to road accidents in different settings. Overall, I find technical interesting in analysing this dataset because it provides valuable insights into road accidents in both inner town and out of town with reported death and other injury per year including three major accident types. Eventually, the EDA can help inform policies and interventions aimed at reducing road accidents and improving road safety for all.
+
+With these data, I have come to a decision to answer following research questions:
+
+1. During the crossing car, which year did most death cases occur in inner town?
+2. What is the main type of accident that has caused most death cases over the years?
+3. For which area (inner town/out of town) has the least serious injury over the period?
+4. What are the turning accident (one of the accident types) trends between the years 2013 to 2022 that fluctuated in terms of slightly injured occurrence?
+5. How have the number of deaths, serious injuries, and slightly injured cases varied in recent (last 5) years due to driving accidents?

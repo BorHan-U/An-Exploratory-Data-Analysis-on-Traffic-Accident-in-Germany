@@ -1,4 +1,5 @@
-##### Project_RSE_824909
+# An Exploratory Data Analysis (EDA) on Traffic Accident in Germany
+## An individual Software Engineering project to uncover trends on traffic accident in Germany (Under Student ID 824909, Uni Potsdam)
 
 This project is to analyze traffic accident and trends in germeny. In this notebook, I will be analyzing a dataset containing information about road accidents between the years 2008 and 2022 in different scenarios such acccident type and location type, etc.. The dataset contains the following columns you must accounted:
     
